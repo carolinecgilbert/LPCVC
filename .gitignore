@@ -1,2 +1,9 @@
 # Python 3 Notebook
 .ipynb_checkpoints
+
+# Datasets
+/LPCVC_Val
+/LPCVC_Train_Updated
+
+# Misc
+.DS_Store
